@@ -50,9 +50,9 @@ everything you need to be able to use Git effectively in your day to day life.
 - [Reset](./reset/README.md) Done
 - [Basic Cleaning](./basic-cleaning/README.md) Done
 - [Amend](./amend/README.md) Done
-- [Reorder the History](./reorder-the-history/README.md)
+- [Reorder the History](./reorder-the-history/README.md) Done
 - [Advanced Rebase Interactive](./advanced-rebase-interactive/README.md)
-- [Rebase using autosquash](./rebase-interactive-autosquash/README.md)
+- [Rebase using autosquash](./rebase-interactive-autosquash/README.md) Done 
 - [Basic Stashing](./basic-stashing/README.md)
 
 See [Overview.md](Overview.md) for a more complete list and suggested order.
