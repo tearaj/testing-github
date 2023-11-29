@@ -46,7 +46,7 @@ everything you need to be able to use Git effectively in your day to day life.
 - [3 way Merge](./3-way-merge/README.md) Done
 - [Merge Mergesort](./merge-mergesort/README.md) Done
 - [Rebase Branch](./rebase-branch/README.md) Done
-- [Basic Revert](./basic-revert/README.md)
+- [Basic Revert](./basic-revert/README.md) Done
 - [Reset](./reset/README.md)
 - [Basic Cleaning](./basic-cleaning/README.md)
 - [Amend](./amend/README.md)
