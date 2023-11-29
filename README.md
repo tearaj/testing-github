@@ -42,7 +42,7 @@ everything you need to be able to use Git effectively in your day to day life.
 - [Basic Staging](./basic-staging/README.md) Done
 - [Investigation](./investigation/README.md) Done
 - [Basic Branching](./basic-branching/README.md) Done
-- [Fast Forward Merge](./ff-merge/README.md)
+- [Fast Forward Merge](./ff-merge/README.md) Done
 - [3 way Merge](./3-way-merge/README.md)
 - [Merge Mergesort](./merge-mergesort/README.md)
 - [Rebase Branch](./rebase-branch/README.md)
