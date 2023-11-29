@@ -49,7 +49,7 @@ everything you need to be able to use Git effectively in your day to day life.
 - [Basic Revert](./basic-revert/README.md) Done
 - [Reset](./reset/README.md) Done
 - [Basic Cleaning](./basic-cleaning/README.md) Done
-- [Amend](./amend/README.md)
+- [Amend](./amend/README.md) Done
 - [Reorder the History](./reorder-the-history/README.md)
 - [Advanced Rebase Interactive](./advanced-rebase-interactive/README.md)
 - [Rebase using autosquash](./rebase-interactive-autosquash/README.md)
