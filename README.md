@@ -53,7 +53,7 @@ everything you need to be able to use Git effectively in your day to day life.
 - [Reorder the History](./reorder-the-history/README.md) Done
 - [Advanced Rebase Interactive](./advanced-rebase-interactive/README.md)
 - [Rebase using autosquash](./rebase-interactive-autosquash/README.md) Done 
-- [Basic Stashing](./basic-stashing/README.md)
+- [Basic Stashing](./basic-stashing/README.md) Done
 
 See [Overview.md](Overview.md) for a more complete list and suggested order.
 
