@@ -40,7 +40,7 @@ everything you need to be able to use Git effectively in your day to day life.
 
 - [Basic Commits](./basic-commits/README.md) Done
 - [Basic Staging](./basic-staging/README.md) Done
-- [Investigation](./investigation/README.md)
+- [Investigation](./investigation/README.md) Done
 - [Basic Branching](./basic-branching/README.md)
 - [Fast Forward Merge](./ff-merge/README.md)
 - [3 way Merge](./3-way-merge/README.md)
