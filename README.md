@@ -45,7 +45,7 @@ everything you need to be able to use Git effectively in your day to day life.
 - [Fast Forward Merge](./ff-merge/README.md) Done
 - [3 way Merge](./3-way-merge/README.md) Done
 - [Merge Mergesort](./merge-mergesort/README.md) Done
-- [Rebase Branch](./rebase-branch/README.md)
+- [Rebase Branch](./rebase-branch/README.md) Done
 - [Basic Revert](./basic-revert/README.md)
 - [Reset](./reset/README.md)
 - [Basic Cleaning](./basic-cleaning/README.md)
